@@ -78,7 +78,7 @@ Compatible with datasets containing sequences of images + captions (e.g. daniel3
 
 ✔️ Required Installation:
 
-        •	Python 3.8+ versions
+       •	Python 3.8+ versions
 
        •	PyTorch
 
@@ -88,7 +88,7 @@ Compatible with datasets containing sequences of images + captions (e.g. daniel3
 
        •	torchvision
 
-      •	Transformers
+       •	Transformers
 
 
 
